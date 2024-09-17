@@ -1,0 +1,20 @@
+.bgcontainer{
+    background-color: #F7B500;
+    border:2px solid #000;
+    border-radius: 50%;
+    transition: background-color 1s;
+    padding: 20px;
+    width:150px;
+    margin: 10px;
+    height:100px;
+}
+.bgcontainer-inactive{
+    background-color: #000000;
+    transition: background-color 1s;
+    border:2px solid #000;
+    border-radius: 50%;
+    padding: 20px;
+    width:150px;
+    margin: 10px;
+    height:100px;
+}
